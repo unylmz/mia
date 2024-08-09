@@ -1,0 +1,13 @@
+miaPrepOHS = //*[@id="contentcontent__ctl3"]/div/div[2]/div/div/div[2]/span/a
+applyMOHS = //*[@id="menu-item-4357"]/a
+nextMOHS = //*[@id="formAccess"]/div[1]/div/div/button/em
+nameMOHS = //*[@id="Name-li"]/div[2]/div/span[1]/input
+lastNameMOHS = //*[@id="Name-li"]/div[2]/div/span[2]/input
+emailMOHS = //*[@id="Email-arialabel"]
+phoneMOHS = //*[@id="PhoneNumber"]
+dropdownMOHSarrow = //*[@id="Dropdown-arialabel"]
+dropdownMOHS = //span[@id='select2-Dropdown-arialabel-container']
+checkBoxMOHSsearchEngine = //*[@id="Checkbox-li"]/div[2]/div/span[1]/label
+checkBoxMOHSmiaPrep = //*[@id="Checkbox-li"]/div[2]/div/span[2]/label
+datePickerMOHS = //*[@id="Date-date"]
+nextToStudentInfoMOHS = //*[@id="formAccess"]/div[1]/div[2]/div/button
